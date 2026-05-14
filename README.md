@@ -111,20 +111,39 @@ CLV analysis was performed to estimate long-term customer value and identify:
 # Dashboards
 
 ## 1. Sales & KPI Dashboard
+
 - Revenue analysis
 - Sales by category
 - Revenue by age group
 - Subscription analysis
 
+### Dashboard Preview
+
+![Sales Dashboard](image/sales.png)
+
+---
+
 ## 2. RFM Customer Segmentation Dashboard
+
 - Customer segmentation distribution
 - Revenue by customer segment
 - Average spend by segment
 
+### Dashboard Preview
+
+![RFM Dashboard](image/rfm.png)
+
+---
+
 ## 3. Customer Lifetime Value (CLV) Dashboard
+
 - CLV distribution
 - Average CLV by segment
 - Total CLV by category
+
+### Dashboard Preview
+
+![CLV Dashboard](image/clv.png)
 
 ---
 
@@ -141,9 +160,20 @@ CLV analysis was performed to estimate long-term customer value and identify:
 # Repository Structure
 
 ```bash
-├── data/
 ├── notebooks/
 ├── sql/
 ├── dashboards/
-├── images/
+├── image/
+│   ├── sales.png
+│   ├── rfm.png
+│   └── clv.png
 └── README.md
+```
+
+---
+
+# Author
+
+Sheik Faresh Ahamad
+
+Aspiring Data Analyst passionate about transforming raw data into actionable business insights using SQL, Python, and Power BI.
