@@ -21,6 +21,20 @@ The business aimed to identify:
 - How customer demographics affect purchasing behavior
 - Opportunities to improve retention and repeat purchases
 
+# Business Solution
+
+Using RFM Segmentation and Customer Lifetime Value (CLV) Analysis, this project helped identify profitable customer groups, purchasing trends, and retention opportunities.
+
+The analysis supports business decision-making by:
+
+- Identifying High Value customers for targeted marketing campaigns
+- Improving customer retention using loyalty and subscription strategies
+- Increasing revenue through personalized product recommendations
+- Understanding category-wise customer behavior and spending patterns
+- Helping businesses focus on high-performing product categories like Clothing
+- Supporting long-term growth through customer lifetime value analysis
+
+These insights can help businesses optimize marketing spend, improve customer engagement, and maximize long-term profitability.
 ---
 
 # Tools & Technologies Used
